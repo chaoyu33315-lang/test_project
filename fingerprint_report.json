@@ -1,0 +1,95 @@
+{
+  "target": "http://127.0.0.1:8105",
+  "findings": [
+    {
+      "path": "/",
+      "url": "http://127.0.0.1:8105/",
+      "status": 200,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": "PHP/8.4.26",
+      "content_md5": "d36f8f9425c4a8000ad9c4a97185aca5",
+      "content_length": 3
+    },
+    {
+      "path": "/index.php",
+      "url": "http://127.0.0.1:8105/index.php",
+      "status": 200,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": "PHP/8.4.26",
+      "content_md5": "d36f8f9425c4a8000ad9c4a97185aca5",
+      "content_length": 3
+    },
+    {
+      "path": "/robots.txt",
+      "url": "http://127.0.0.1:8105/robots.txt",
+      "status": 404,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "0964f2b2ebac94a2b447705ff64e3946",
+      "content_length": 313
+    },
+    {
+      "path": "/favicon.ico",
+      "url": "http://127.0.0.1:8105/favicon.ico",
+      "status": 404,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "0964f2b2ebac94a2b447705ff64e3946",
+      "content_length": 313
+    },
+    {
+      "path": "/server-status",
+      "url": "http://127.0.0.1:8105/server-status",
+      "status": 403,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "53a58247da22edf7b383ddeb3ab04347",
+      "content_length": 316
+    },
+    {
+      "path": "/.git/HEAD",
+      "url": "http://127.0.0.1:8105/.git/HEAD",
+      "status": 404,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "0964f2b2ebac94a2b447705ff64e3946",
+      "content_length": 313
+    },
+    {
+      "path": "/phpinfo.php",
+      "url": "http://127.0.0.1:8105/phpinfo.php",
+      "status": 404,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "0964f2b2ebac94a2b447705ff64e3946",
+      "content_length": 313
+    },
+    {
+      "path": "/test.php",
+      "url": "http://127.0.0.1:8105/test.php",
+      "status": 404,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "0964f2b2ebac94a2b447705ff64e3946",
+      "content_length": 313
+    },
+    {
+      "path": "/readme.html",
+      "url": "http://127.0.0.1:8105/readme.html",
+      "status": 404,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "0964f2b2ebac94a2b447705ff64e3946",
+      "content_length": 313
+    },
+    {
+      "path": "/wp-login.php",
+      "url": "http://127.0.0.1:8105/wp-login.php",
+      "status": 404,
+      "server": "Apache/2.4.69 (Debian)",
+      "x_powered_by": null,
+      "content_md5": "0964f2b2ebac94a2b447705ff64e3946",
+      "content_length": 313
+    }
+  ]
+}
